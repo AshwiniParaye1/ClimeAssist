@@ -16,7 +16,7 @@ function Forecast({title}) {
                 04:30 PM
             </p>
 
-            <img src='http://openweathermap.org/img/wn/01d@2x.png' className='w-12 my-1' />
+            <img src='http://openweathermap.org/img/wn/01d@2x.png' className='w-12 my-1' alt=''/>
 
             <p className='font-medium'>22°</p>
         </div>
@@ -26,7 +26,7 @@ function Forecast({title}) {
                 04:30 PM
             </p>
 
-            <img src='http://openweathermap.org/img/wn/01d@2x.png' className='w-12 my-1' />
+            <img src='http://openweathermap.org/img/wn/01d@2x.png' alt='' className='w-12 my-1' />
 
             <p className='font-medium'>22°</p>
         </div>
@@ -36,7 +36,7 @@ function Forecast({title}) {
                 04:30 PM
             </p>
 
-            <img src='http://openweathermap.org/img/wn/01d@2x.png' className='w-12 my-1' />
+            <img src='http://openweathermap.org/img/wn/01d@2x.png' alt='' className='w-12 my-1' />
 
             <p className='font-medium'>22°</p>
         </div>
@@ -46,7 +46,7 @@ function Forecast({title}) {
                 04:30 PM
             </p>
 
-            <img src='http://openweathermap.org/img/wn/01d@2x.png' className='w-12 my-1' />
+            <img src='http://openweathermap.org/img/wn/01d@2x.png' alt='' className='w-12 my-1' />
 
             <p className='font-medium'>22°</p>
         </div>
@@ -56,7 +56,7 @@ function Forecast({title}) {
                 04:30 PM
             </p>
 
-            <img src='http://openweathermap.org/img/wn/01d@2x.png' className='w-12 my-1' />
+            <img src='http://openweathermap.org/img/wn/01d@2x.png' alt='' className='w-12 my-1' />
 
             <p className='font-medium'>22°</p>
         </div>
